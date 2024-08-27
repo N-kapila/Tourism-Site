@@ -1,7 +1,7 @@
-# RED EYE TOURISM - Travel Website
+# Travel Website
 
 ## Overview
-**RED EYE TOURISM** is a travel website that provides users with information about tour packages, hotel bookings, and other travel-related services. The site is built using HTML and CSS, with Bootstrap used for responsive design and layout.
+This travel website provides users with information about tour packages, hotel bookings, and other travel-related services. The site is built using HTML and CSS, with Bootstrap for responsive design and layout.
 
 ## Features
 - **Responsive Navbar**: A navigation bar that adapts to different screen sizes, ensuring easy access to all sections of the website.
@@ -15,7 +15,3 @@
 - **CSS3**: Custom styles are created using CSS3 to enhance the visual appeal of the site.
 - **Bootstrap 4**: Used for responsive layout, components, and grid system.
 - **Font Awesome**: Icons are incorporated using Font Awesome.
-
-## Project Structure
-The project is structured as follows:
-
